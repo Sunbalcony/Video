@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/Sunbalcony/Video/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
+[contact support](https://support.github.com/contact)
 
 ### Markdown
 
@@ -12,9 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-这是一个链接 [菜鸟教程](https://www.runoob.com)
 
-[contact support](https://support.github.com/contact)
 
 # Header 1
 ## Header 2
