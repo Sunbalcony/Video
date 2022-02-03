@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[误杀2]: /ws2/index/m3u8
+[link]: /ws2/index/m3u8
 
 # Header 1
 ## Header 2
