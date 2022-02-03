@@ -12,7 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[link]: /ws2/index/m3u8
+This is [an example](http://example.com/ "Title") inline link.
+
 
 # Header 1
 ## Header 2
